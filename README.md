@@ -1,7 +1,5 @@
 # Residual Tail-Guided Flow Matching (RT-FM)
 
-Anonymous code release for reproducing the final experiments.
-
 ## Layout
 
 ```text
