@@ -1,4 +1,4 @@
-# Residual Tail-Guided Flow Matching (RT-FM)
+# Residual Tail-Informed Flow Matching (RT-FM) for Time Series Anomaly Detection
 
 ## Layout
 
